@@ -1,1 +1,6 @@
-# magic_model_pre_version
+![3](./img/3.jpg)
+![2](./img/2.jpg)
+![4](./img/4.png)
+![5](./img/5.png)
+![6](./img/6.jpg)
+![1](./img/1.jpg)
